@@ -1,0 +1,1 @@
+See http://www.saltycrane.com/blog/2009/11/trying-out-retry-decorator-python/
