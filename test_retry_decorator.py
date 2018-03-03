@@ -1,7 +1,7 @@
 import logging
 import unittest
 
-from decorators import retry
+from retry_decorator import retry
 
 
 class RetryableError(Exception):
